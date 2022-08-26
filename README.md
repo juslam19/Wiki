@@ -1,6 +1,8 @@
 [Wiki](#wiki)
 =============
 
+Demo video: https://youtu.be/K-Kap77HTg0
+
 Design a Wikipedia-like online encyclopedia.
 
 [Background](#background)
